@@ -10,4 +10,6 @@ hosted on pythonanywhere as,
 
 dibyanayan.pythonanywhere.com
 
-N.B: Still in development phase. Some features may not work.
+N.B: 
+1. Still in development phase. Some features may not work.
+2. static files are modified from a free template downloaded from colorlib.
