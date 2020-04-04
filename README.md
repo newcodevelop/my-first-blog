@@ -9,3 +9,5 @@ You can say the blog works as a toy Medium(medium.com)...
 hosted on pythonanywhere as,
 
 dibyanayan.pythonanywhere.com
+
+N.B: Still in development phase. Some features may not work.
